@@ -1,5 +1,3 @@
-Perfect, thanks — that’s exactly the context I needed. Here’s a solid draft README for your repo:
-
 ---
 
 # PythonWordsley 🎮
@@ -82,5 +80,3 @@ If you’d like to suggest a new feature (e.g., difficulty levels, hints, or mul
 This project is licensed under the MIT License.
 
 ---
-
-Do you want me to also include **screenshots / GIF examples** of gameplay in the README (so it looks more engaging on GitHub), or keep it purely text-based?
